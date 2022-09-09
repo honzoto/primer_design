@@ -1,0 +1,17 @@
+kmer,dg,source
+AA,1.9,experiment
+AC,1.3,from_GT
+AG,1.6,from_CT
+AT,1.5,experiment
+CA,1.9,experiment
+CC,3.1,from_GG
+CG,3.6,experiment
+CT,1.6,experiment
+GA,1.6,experiment
+GC,3.1,experiment
+GG,3.1,experiment
+GT,1.3,experiment
+TA,0.9,experiment
+TC,1.6,from_GA
+TG,1.9,from_CA
+TT,1.9,from_AA
